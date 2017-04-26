@@ -1,0 +1,30 @@
+{
+  "name": "aon-elements",
+  "version": "1.0.0",
+  "homepage": "https://github.com/aonsolutions/aon-elements",
+  "authors": [
+    "The Polymer Authors"
+  ],
+  "description": "Aon elements are a set of visual elements.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "paper",
+    "element-collection"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aonsolutions/aon-elements.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+
+  },
+  "main": "aon-elements.html"
+}
